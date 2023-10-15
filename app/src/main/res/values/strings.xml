@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FichaFit</string>
+    <string name="ficha">Ficha</string>
+    <string name="fit">Fit</string>
+    <string name="splach_frase">Sua ficha de treino na palma da mão!</string>
+    <string name="start">Bora começar?</string>
+</resources>
